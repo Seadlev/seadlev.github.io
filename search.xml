@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Customizable Route Planning in Road Networks</title>
-    <url>/crp/</url>
-    <content><![CDATA[<p>Customizable Route Planning in Road Networks.pdf</p>
-<span id="more"></span>
-<embed src="/pdf/crp.pdf" width="100%" height="700" type="application/pdf">
-]]></content>
-  </entry>
-  <entry>
     <title>Test</title>
     <url>/test/Test/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -32,7 +24,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/hello-world/</url>
+    <url>/uncategorized/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
 first post. Check <a href="https://hexo.io/docs/">documentation</a> for
 more info. If you get any problems when using Hexo, you can find the
@@ -113,5 +105,16 @@ you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p
 <p>1</p>
 <p>1</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Customizable Route Planning in Road Networks</title>
+    <url>/Study/crp/</url>
+    <content><![CDATA[<p>Customizable Route Planning in Road Networks.pdf</p>
+<span id="more"></span>
+<embed src="/pdf/crp.pdf" width="100%" height="700" type="application/pdf">
+]]></content>
+      <categories>
+        <category>Study</category>
+      </categories>
   </entry>
 </search>
