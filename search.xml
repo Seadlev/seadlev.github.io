@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Dariy - 2025.7</title>
+    <url>/Life/Dariy%20-%202025.7/</url>
+    <content><![CDATA[<h1 id="section">2025.7.22</h1>
+<p>终于搞好新博客了。</p>
+<h1 id="section-1">2025.7.23</h1>
+<p>一天看完了《连城诀》，是一部非常黑暗的小说，全书可能就四个半好人，主角狄云、师妹戚芳、狱友兼师父丁典、铃剑双侠之一水笙，除此之外血刀老祖虽然恶贯满盈，但个性鲜明，我们都知道他是坏人，反而就不显得那么坏了。</p>
+<p>而其他人，坏在表里不一、见利忘义、心狠手辣，师徒、师兄弟之间明争暗斗，甚至亲情、爱情之间也互相猜忌。</p>
+<p>可能只有最后狄云和水笙都回到雪山是黑暗中唯一的光。</p>
+<blockquote>
+<p>连城诀，连城诀。</p>
+<p>金波旬花风姿曳，霜华三更月。</p>
+<p>小园黯丁火，幽花随风谢。</p>
+<p>当时儿女事，都做泪语别。</p>
+<p>戚戚芳草，墙内闻人笑。</p>
+<p>长恨人心无神照，深恩做血刀。</p>
+<p>冬来单衣薄，红袖织羽袄。</p>
+<p>空山雪水，声声寂寞谣。</p>
+</blockquote>
+<p>ow 新活动“心动之箭”，你可以在 fps 游戏中玩到 galgame，哈哈哈。</p>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Customizable Route Planning in Road Networks</title>
+    <url>/Study/crp/</url>
+    <content><![CDATA[<p>Customizable Route Planning in Road Networks.pdf</p>
+<span id="more"></span>
+<embed src="/pdf/crp.pdf" width="100%" height="700" type="application/pdf">
+]]></content>
+      <categories>
+        <category>Study</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Test</title>
     <url>/test/Test/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -105,16 +141,5 @@ you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p
 <p>1</p>
 <p>1</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Customizable Route Planning in Road Networks</title>
-    <url>/Study/crp/</url>
-    <content><![CDATA[<p>Customizable Route Planning in Road Networks.pdf</p>
-<span id="more"></span>
-<embed src="/pdf/crp.pdf" width="100%" height="700" type="application/pdf">
-]]></content>
-      <categories>
-        <category>Study</category>
-      </categories>
   </entry>
 </search>
